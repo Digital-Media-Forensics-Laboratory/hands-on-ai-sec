@@ -39,3 +39,9 @@ python scripts/export_book.py
 - [许可说明](LICENSE)
 
 版本：v0.3.3。
+
+## 许可说明
+
+除另有说明外，本项目的原创内容采用 [Apache License 2.0](LICENSE) 发布。
+
+引用的第三方图表、模型、代码及其他材料，仍遵循各自的许可和使用条件。
