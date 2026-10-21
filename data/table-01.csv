@@ -1,0 +1,12 @@
+时间,代表模型,发布机构,开放类型,开源协议
+2018年6月,GPT-1[19],OpenAI（美国）,Open-weight,MIT License[31]
+2019年2—11月,GPT-2[20],OpenAI（美国）,Open-weight,Modified MIT License[20]
+2022年7月,BLOOM[21],BigScience（国际协作）,Restricted Open,BigScience BLOOM RAIL 1.0[21]
+2022年8月,Stable Diffusion[23],Stability AI、CompVis、Runway（国际合作）,Restricted Open,CreativeML Open RAIL-M[23]
+2023年7月,Llama 2[32],Meta（美国）,Restricted Open,Llama 2 Community License[32]
+2023年12月,Mixtral 8x7B[33],Mistral AI（法国）,Open-weight,Apache-2.0[34]
+2024年2月,OLMo[24],Ai2（美国）,Fully Open,Apache-2.0[34]（模型及代码）；训练数据采用独立开放许可
+2024年7月,Llama 3.1 405B[35],Meta（美国）,Restricted Open,Llama 3.1 Community License[36]
+2025年3月,Gemma 3[37],Google（美国）,Restricted Open,Gemma Terms of Use[37]
+2025年8月,gpt-oss-20b / 120b[38],OpenAI（美国）,Open-weight,Apache-2.0[34]；另适用gpt-oss Usage Policy[38]
+2026年3月,Mistral Small 4[39],Mistral AI（法国）,Open-weight,Apache-2.0[34]

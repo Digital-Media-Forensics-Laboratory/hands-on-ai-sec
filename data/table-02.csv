@@ -1,0 +1,12 @@
+时间,代表模型,发布机构,开放类型,开源协议
+2020年12月,CPM-1[48],北京智源人工智能研究院、清华大学,Restricted Open,MIT License[31]（代码）；模型面向研究开放
+2022年8月,GLM-130B[22],清华大学,Restricted Open,Apache-2.0[34]（代码）；GLM-130B Model License[22]（模型）
+2023年3月,ChatGLM-6B[49],清华大学、智谱AI,Restricted Open,Apache-2.0[34]（代码）；ChatGLM-6B Model License[49]（模型）
+2023年8月,Qwen-7B[2],阿里云Qwen团队,Restricted Open,Apache-2.0[34]（代码）；Tongyi Qianwen LICENSE AGREEMENT[2]（模型）
+2024年12月,DeepSeek-V3[50],深度求索,Restricted Open,MIT License[31]（代码）；DeepSeek Model License[50]（模型）
+2025年1月,DeepSeek-R1[1],深度求索,Open-weight,MIT License[31]
+2025年2月,Wan2.1[51],阿里巴巴Wan团队,Open-weight,Apache-2.0[34]
+2025年4月,Qwen3-235B-A22B[7],阿里巴巴Qwen团队,Open-weight,Apache-2.0[34]
+2025年7月,Kimi K2[25],月之暗面,Restricted Open,Modified MIT License[25]
+2026年7月,Kimi K3[52],月之暗面,Restricted Open,Kimi K3 License[52]
+2026年9月,DeepSeek-V4.1-Flash[30],深度求索,Open-weight,MIT License[31]

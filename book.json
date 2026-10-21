@@ -1,0 +1,276 @@
+{
+  "title": "动手学人工智能安全",
+  "version": "0.3.3",
+  "date": "2026-10-21",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "第一章  绪论",
+      "slug": "chapter_introduction",
+      "sections": [
+        {
+          "number": 1,
+          "title": "一、学习背景",
+          "path": "chapter_introduction/01.md",
+          "subheadings": []
+        },
+        {
+          "number": 2,
+          "title": "二、学习目标与应用价值",
+          "path": "chapter_introduction/02.md",
+          "subheadings": [
+            "（一）分析视角",
+            "（二）应用价值"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "三、学习思路与分析方法",
+          "path": "chapter_introduction/03.md",
+          "subheadings": []
+        },
+        {
+          "number": 4,
+          "title": "四、全书结构",
+          "path": "chapter_introduction/04.md",
+          "subheadings": []
+        }
+      ],
+      "path": "chapter_introduction/index.md"
+    },
+    {
+      "number": 2,
+      "title": "第二章  开源大模型发展现状与内容安全风险概述",
+      "slug": "chapter_development-and-risks",
+      "sections": [
+        {
+          "number": 1,
+          "title": "一、开源大模型发展现状",
+          "path": "chapter_development-and-risks/01.md",
+          "subheadings": [
+            "（一）国外开源大模型发展趋势",
+            "（二）国内开源大模型发展趋势",
+            "（三）开源大模型分发平台概述"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "二、开源大模型内容安全风险主要类型",
+          "path": "chapter_development-and-risks/02.md",
+          "subheadings": [
+            "（一）数据来源与基础语料安全风险",
+            "（二）有害内容生成风险",
+            "（三）虚假信息与深度伪造风险",
+            "（四）二次开发产品责任转嫁风险"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "三、开源大模型内容安全风险特殊性与治理难点",
+          "path": "chapter_development-and-risks/03.md",
+          "subheadings": [
+            "（一）开源大模型内容安全风险的特殊性",
+            "（二）开源大模型内容安全治理的主要难点"
+          ]
+        }
+      ],
+      "path": "chapter_development-and-risks/index.md"
+    },
+    {
+      "number": 3,
+      "title": "第三章  国内外开源大模型内容安全治理方法与实践",
+      "slug": "chapter_research-progress",
+      "sections": [
+        {
+          "number": 1,
+          "title": "一、国外治理方法的发展",
+          "path": "chapter_research-progress/01.md",
+          "subheadings": [
+            "（一）人工智能治理理论框架",
+            "（二）风险分级监管模式",
+            "（三）平台责任与社区自治"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "二、国内治理方法的发展",
+          "path": "chapter_research-progress/02.md",
+          "subheadings": [
+            "（一）生成式人工智能监管政策",
+            "（二）网络内容治理与安全评测"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "三、现有方法的适用边界与分析重点",
+          "path": "chapter_research-progress/03.md",
+          "subheadings": []
+        }
+      ],
+      "path": "chapter_research-progress/index.md"
+    },
+    {
+      "number": 4,
+      "title": "第四章  开源大模型内容安全风险识别与态势分析",
+      "slug": "chapter_risk-identification",
+      "sections": [
+        {
+          "number": 1,
+          "title": "一、风险识别框架设计",
+          "path": "chapter_risk-identification/01.md",
+          "subheadings": [
+            "（一）全生命周期分析视角",
+            "（二）风险分类与分级方法"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "二、典型风险案例分析",
+          "path": "chapter_risk-identification/02.md",
+          "subheadings": []
+        },
+        {
+          "number": 3,
+          "title": "三、风险态势与评测结果",
+          "path": "chapter_risk-identification/03.md",
+          "subheadings": [
+            "（一）代表性开源模型公开评测与第三方平台测评分析",
+            "（二）开源社区风险分布特征"
+          ]
+        },
+        {
+          "number": 4,
+          "title": "四、风险底数清单",
+          "path": "chapter_risk-identification/04.md",
+          "subheadings": []
+        }
+      ],
+      "path": "chapter_risk-identification/index.md"
+    },
+    {
+      "number": 5,
+      "title": "第五章 开源大模型内容安全评估指标体系构建",
+      "slug": "chapter_evaluation-framework",
+      "sections": [
+        {
+          "number": 1,
+          "title": "一、指标体系设计原则与理论依据",
+          "path": "chapter_evaluation-framework/01.md",
+          "subheadings": []
+        },
+        {
+          "number": 2,
+          "title": "二、指标框架与层次结构",
+          "path": "chapter_evaluation-framework/02.md",
+          "subheadings": [
+            "（一）模型本体安全属性指标",
+            "（二）社区治理规范程度指标",
+            "（三）生态传播可控程度指标"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "三、指标内涵界定与评价标准",
+          "path": "chapter_evaluation-framework/03.md",
+          "subheadings": []
+        },
+        {
+          "number": 4,
+          "title": "四、评价流程与实施要求",
+          "path": "chapter_evaluation-framework/04.md",
+          "subheadings": []
+        },
+        {
+          "number": 5,
+          "title": "五、指标体系验证与修正",
+          "path": "chapter_evaluation-framework/05.md",
+          "subheadings": []
+        }
+      ],
+      "path": "chapter_evaluation-framework/index.md"
+    },
+    {
+      "number": 6,
+      "title": "第六章  开源社区管理与开源生态发展",
+      "slug": "chapter_open-source-governance",
+      "sections": [
+        {
+          "number": 1,
+          "title": "一、主流开源社区治理模式分析",
+          "path": "chapter_open-source-governance/01.md",
+          "subheadings": [
+            "（一）国际开源社区治理机制",
+            "（二）国内开源社区治理现状"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "二、开源许可协议与安全责任界定",
+          "path": "chapter_open-source-governance/02.md",
+          "subheadings": [
+            "（一）开源许可协议",
+            "（二）安全责任界定"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "三、社区内容安全自治机制优化建议",
+          "path": "chapter_open-source-governance/03.md",
+          "subheadings": []
+        },
+        {
+          "number": 4,
+          "title": "四、开源生态健康发展路径",
+          "path": "chapter_open-source-governance/04.md",
+          "subheadings": []
+        }
+      ],
+      "path": "chapter_open-source-governance/index.md"
+    },
+    {
+      "number": 7,
+      "title": "第七章 内容安全规范管理策略与政策建议",
+      "slug": "chapter_management-strategies",
+      "sections": [
+        {
+          "number": 1,
+          "title": "一、国外开源人工智能治理经验借鉴",
+          "path": "chapter_management-strategies/01.md",
+          "subheadings": []
+        },
+        {
+          "number": 2,
+          "title": "二、规范管理的基本原则",
+          "path": "chapter_management-strategies/02.md",
+          "subheadings": []
+        },
+        {
+          "number": 3,
+          "title": "三、模型发布与分发环节管理建议",
+          "path": "chapter_management-strategies/03.md",
+          "subheadings": []
+        },
+        {
+          "number": 4,
+          "title": "四、二次开发产品追踪与责任传导机制建议",
+          "path": "chapter_management-strategies/04.md",
+          "subheadings": []
+        },
+        {
+          "number": 5,
+          "title": "五、社区自治与行政监管协同建议",
+          "path": "chapter_management-strategies/05.md",
+          "subheadings": []
+        },
+        {
+          "number": 6,
+          "title": "六、平台主体责任与行业自律建议",
+          "path": "chapter_management-strategies/06.md",
+          "subheadings": []
+        }
+      ],
+      "path": "chapter_management-strategies/index.md"
+    }
+  ],
+  "references": "chapter_references/index.md"
+}

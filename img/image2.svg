@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1560" height="1590" viewBox="0 0 1560 1590" role="img" aria-labelledby="title">
+<title id="title">开源大模型内容安全的学习思路与分析方法</title>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10" fill="#7295b5"/></marker></defs>
+<style>text{font-family:"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#20374c}</style>
+<rect width="1560" height="1590" fill="white"/>
+<text x="780" y="60" text-anchor="middle" font-size="34" font-weight="600" style="fill:#17558a">开源大模型内容安全的学习思路与分析方法</text>
+<text x="200" y="120" text-anchor="middle" font-size="28" font-weight="600" style="fill:#17558a">分析方法</text>
+<text x="780" y="120" text-anchor="middle" font-size="28" font-weight="600" style="fill:#17558a">学习内容</text>
+<text x="1370" y="120" text-anchor="middle" font-size="28" font-weight="600" style="fill:#17558a">理解重点</text>
+<rect x="35" y="166" width="330" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<rect x="445" y="166" width="670" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<rect x="1195" y="166" width="330" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<text x="200" y="256" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">文献阅读</text>
+<text x="200" y="300" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">政策与标准分析</text>
+<text x="780" y="224" text-anchor="middle" font-size="28" font-weight="600" style="fill:#17558a">模型发展与内容风险</text>
+<text x="780" y="282" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">梳理开源大模型及社区发展情况</text>
+<text x="780" y="326" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">明确内容风险分类与治理要求</text>
+<text x="1360" y="256" text-anchor="middle" font-size="23" font-weight="normal" style="fill:#20374c">分析范围</text>
+<text x="1360" y="300" text-anchor="middle" font-size="23" font-weight="normal" style="fill:#20374c">风险分析框架</text>
+<path d="M373,276 L435,276" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M1125,276 L1185,276" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M780,393 L780,436" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="35" y="446" width="330" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<rect x="445" y="446" width="670" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<rect x="1195" y="446" width="330" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<text x="200" y="536" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">典型案例分析</text>
+<text x="200" y="580" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">公开测评资料分析</text>
+<text x="780" y="504" text-anchor="middle" font-size="28" font-weight="600" style="fill:#17558a">风险识别与态势分析</text>
+<text x="780" y="562" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">分析内容风险的成因及传播方式</text>
+<text x="780" y="606" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">考察二次开发对安全表现的影响</text>
+<text x="1360" y="536" text-anchor="middle" font-size="23" font-weight="normal" style="fill:#20374c">风险清单</text>
+<text x="1360" y="580" text-anchor="middle" font-size="23" font-weight="normal" style="fill:#20374c">风险态势与传播特征</text>
+<path d="M373,556 L435,556" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M1125,556 L1185,556" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M780,673 L780,716" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="35" y="726" width="330" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<rect x="445" y="726" width="670" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<rect x="1195" y="726" width="330" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<text x="200" y="816" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">归纳分析</text>
+<text x="200" y="860" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">指标设计</text>
+<text x="780" y="784" text-anchor="middle" font-size="28" font-weight="600" style="fill:#17558a">内容安全评价指标</text>
+<text x="780" y="842" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">考察模型本体安全与社区治理</text>
+<text x="780" y="886" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">评价模型传播中的风险可控程度</text>
+<text x="1360" y="816" text-anchor="middle" font-size="23" font-weight="normal" style="fill:#20374c">评价指标与实施要求</text>
+<text x="1360" y="860" text-anchor="middle" font-size="23" font-weight="normal" style="fill:#20374c">试评修正方案</text>
+<path d="M373,836 L435,836" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M1125,836 L1185,836" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M780,953 L780,996" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="35" y="1006" width="330" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<rect x="445" y="1006" width="670" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<rect x="1195" y="1006" width="330" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<text x="200" y="1096" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">比较分析</text>
+<text x="200" y="1140" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">许可与平台规则分析</text>
+<text x="780" y="1064" text-anchor="middle" font-size="28" font-weight="600" style="fill:#17558a">社区治理与责任分工</text>
+<text x="780" y="1122" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">比较模型发布与风险处置机制</text>
+<text x="780" y="1166" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">分析各参与主体的职责及协作方式</text>
+<text x="1360" y="1096" text-anchor="middle" font-size="23" font-weight="normal" style="fill:#20374c">社区管理优化建议</text>
+<text x="1360" y="1140" text-anchor="middle" font-size="23" font-weight="normal" style="fill:#20374c">责任衔接机制</text>
+<path d="M373,1116 L435,1116" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M1125,1116 L1185,1116" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M780,1233 L780,1276" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<rect x="35" y="1286" width="330" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<rect x="445" y="1286" width="670" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<rect x="1195" y="1286" width="330" height="220" rx="14" fill="#f4f8fc" stroke="#a1bbd2" stroke-width="2"/>
+<text x="200" y="1376" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">综合分析</text>
+<text x="200" y="1420" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">政策理解</text>
+<text x="780" y="1344" text-anchor="middle" font-size="28" font-weight="600" style="fill:#17558a">规范管理策略与政策建议</text>
+<text x="780" y="1402" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">联系风险评价与社区治理</text>
+<text x="780" y="1446" text-anchor="middle" font-size="24" font-weight="normal" style="fill:#20374c">明确管理措施适用环节及实施主体</text>
+<text x="1360" y="1376" text-anchor="middle" font-size="23" font-weight="normal" style="fill:#20374c">规范管理策略</text>
+<text x="1360" y="1420" text-anchor="middle" font-size="23" font-weight="normal" style="fill:#20374c">政策建议</text>
+<path d="M373,1396 L435,1396" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+<path d="M1125,1396 L1185,1396" stroke="#7295b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+</svg>
